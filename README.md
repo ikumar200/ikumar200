@@ -2,7 +2,7 @@
 - A Software Developer 
 - My current development tech stack includes PERN(postgres,express,react,node)
 - Iam studing B.tech in Information technology
-- I'am into (Full Stack + Devops)
+- I'am into (Full Stack and Devops)
 -----------------
 - Future plans- React Native (MobileApp) , Python and Golang
 ## 🔗 Links

@@ -1,7 +1,7 @@
 # Indrakumar Naragude
 - [![](https://visitcount.itsvg.in/api?id=ikumar200&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 - A Software Developer 
-- My current development tech stack includes PERN(postgres,express,react,node)
+- My current development tech stack includes PERN(postgres,express,react,nodejs)
 - Iam studing B.tech in Information technology
 - I'am into (Full Stack and Devops)
 -----------------

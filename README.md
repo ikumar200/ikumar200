@@ -6,7 +6,5 @@
 -----------------
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikumar200)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indrakumar-n-8bb697272/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TechsterDev/)
-
 ----------------------------------
 <img src="https://github-readme-stats.vercel.app/api?username=ikumar200&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />

@@ -1,6 +1,6 @@
 # Indrakumar Naragude
 - A Software Developer 
-- My current development tech stack includes PERN(postgres,express,react,nodejs)
+- My current development tech stack includes MERN(mongodb,express,react,nodejs)
 - Iam studing B.tech in Information technology
 - I'am into (Full Stack and Devops)
 -----------------

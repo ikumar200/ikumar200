@@ -8,4 +8,7 @@
     </td>
   </tr>
 </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikumar200&" alt="ikumar200" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikumar200&" alt="ikumar200" />
+</p>
+
